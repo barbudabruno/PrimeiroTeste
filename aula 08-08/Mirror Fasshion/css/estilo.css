@@ -1,0 +1,15 @@
+		p{
+			background-color:#fff;
+			color: #f00;
+			font-family: "Andele Mono", "Helvetica", sans-serif; 
+		}
+		h1{
+			font-family: "Andele Mono"; text-align: center; background-color: #888; text-indent: 30px;
+		}
+		body { font-weight: bold; 
+			text-align: left; 
+			background: url(body-background.png) repeat-x 100px 200px fixed;
+			border-color: gray;
+			border-style: groove;
+			border-width: 1px;
+		}

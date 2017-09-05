@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<receituario>
+ <clinica>Baby Pediatria</clinica>
+ <paciente>
+  <nome>Ana Maria Marina</nome>
+  <idade>7 anos</idade>
+ </paciente>
+<tratamento tipo="interno">
+ <medicamento>Xarope SemTosse</medicamento>
+ <posologia>1 colher 3x ao dia</posologia>
+</tratamento>
+ <tratamento tipo="externo">
+  <medicamento>Gyellow</medicamento>
+  <posologia>aplicar no braco 1x ao dia ao deitar</posologia>
+ </tratamento>
+</receituario>

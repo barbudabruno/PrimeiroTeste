@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<curriculo>
+<dadosPessoais>
+<nome>Bruno</nome>
+<sobrenome>Barbuda Cipriano</sobrenome>
+<idade>22 anos</idade>
+<email>barbudabruno@gmail.com</email>
+<telefone>25210497</telefone>
+<celular>972177887</celular>
+<endereco>Av. Dr. Galdino do Valle Filho, 129
+<complemento>apto. 201</complemento>
+<bairro>Centro</bairro>
+<cidade>Nova Friburgo</cidade>
+<cep>28625010</cep>
+</endereco>
+</dadosPessoais>
+<formacao>
+<ensinoMedio>Escola Tecnica Electra
+<anoConclusao>2012</anoConclusao>
+</ensinoMedio>
+<ensinoSuperior>CEFET - Nova Friburgo
+<curso>Sistemas de Informacao</curso>
+<anoConclusao>2020</anoConclusao>
+</ensinoSuperior>
+</formacao>
+<idiomas>
+<ingles>Nivel avancado</ingles>
+<espanhol>Nivel basico</espanhol>
+</idiomas>
+<cursosadicionais>
+<curso1>Tecnico em eletronica industrial</curso1>
+<curso2>Instalacoes eletricas</curso2>
+</cursosadicionais>
+</curriculo>
